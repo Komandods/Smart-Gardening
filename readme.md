@@ -8,6 +8,7 @@ Dieses Projekt kam durch eine Belegarbeit zur stande.
 
 ## Anhänge
 Anhände befinden sich: WebApp/Anhänge
+Belegarbeit in der Projektdatei
 
 ## Installation
 
@@ -43,3 +44,5 @@ Um den Server und den Client zu starten, benötigen Sie zwei Terminals. Führen 
     ```
 
 Der Client und Server werden auf 2 verschiedene `localhost` gestartet.
+
+Notitz: diese readme ist zum Teil mit `Copilot` generiert.
