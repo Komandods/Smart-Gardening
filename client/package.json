@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "chart.js": "^4.4.6",
+    "mithril": "^2.2.9"
+  },
+  "devDependencies": {
+    "stylus": "^0.64.0",
+    "vite": "^5.4.11"
+  },
+  "scripts": {
+    "dev": "vite"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "plants": [
+    {
+      "name": "Sonnenblume",
+      "number": 7
+    },
+    {
+      "name": "Tomaten",
+      "number": 20
+    }
+  ],
+  "location": "Hanover",
+  "holdingConditions": "Gewächshaus",
+  "wateringFrequency": 5,
+  "gid": "x2344",
+  "alreadyWatered": 4
+}
